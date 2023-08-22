@@ -1,0 +1,803 @@
+sentence,label_name,label_ID,language
+The Obama administration says it plans to bring in tens of thousands more immigrants this year than it did in 2016.,Economic,1.0,English
+President Donald Trump's decision to end the Obama-era Deferred Action for Childhood Arrivals (DACA) policy has sparked debate in Washington.,Political,13.0,English
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo reflects on the plight of refugees.",Morality,3.0,English
+President Donald Trump's proposed border wall with Mexico could have far-reaching implications for the US economy.,Economic,1.0,English
+"As part of our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the key stories of the week.",Political,13.0,English
+The UK government has said it will not accept any more refugees from Syria.,Morality,3.0,English
+Immigration has been a major issue in the US election.,Economic,1.0,English
+Immigration has become a major issue in the US presidential election.,Political,13.0,English
+The Trump administration's policy of separating children from their parents at the border is an outrage.,Morality,3.0,English
+BBC News takes a look at the impact of immigration on the UK economy.,Economic,1.0,English
+President Donald Trump's administration is considering a plan that would greatly increase the number of immigrants allowed into the US each year.,Economic,1.0,English
+A country's immigration policy affects the quality and quantity of its people.,Capacity and Resources,2.0,English
+Home Secretary Amber Rudd has defended the government's record on immigration.,Fairness and Equality,4.0,English
+The United Nations General Assembly has adopted a resolution on the issue of immigration.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration policies must reflect the interests of the United States and the interests of the world.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration policies should be based on the needs of the country in which they are implemented.,Policy Prescription and Evaluation,6.0,English
+The United States is a nation of immigrants.,Crime and Punishment,7.0,English
+The United States is a nation of immigrants.,Security and Defense,8.0,English
+The European Court of Human Rights (ECHR) has ruled that immigration policies must take into account the human and social costs of migration.,Health and Safety,9.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+Immigration is one of the most important drivers of economic growth in many countries.,Cultural Identity,11.0,English
+The UK government must ensure that its immigration policy reflects the needs of the country and its people.,Public Sentiment,12.0,English
+The UK's immigration policy must take into account the needs of the country and its people.,External Regulation and Reputation,14.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the issue of immigration.",Political,13.0,English
+The United Nations Convention on the Rights of the Child requires that immigration policies should not discriminate on the basis of sexual orientation or gender identity.,Morality,3.0,English
+BBC News takes a look at the economic impact of immigration on the UK economy.,Economic,1.0,English
+Immigration has become a major issue in the US presidential election.,Capacity and Resources,2.0,English
+The UK Border Agency (UKBA) is responsible for the management and control of immigration to and from the UK.,Fairness and Equality,4.0,English
+The UK Border Agency is responsible for the control and management of immigration to and from the UK.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"Immigration policies must not discriminate on the basis of race, religion, or national origin.","Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration policies should be based on the needs of the country in which they are intended to be implemented.,Policy Prescription and Evaluation,6.0,English
+Immigration is an issue that affects all of us.,Crime and Punishment,7.0,English
+The United States is a nation of immigrants.,Security and Defense,8.0,English
+The UK Border Agency must take into account the security and stability of the country when deciding who can come to the UK.,Health and Safety,9.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+Immigration is one of the most important drivers of economic growth in many countries.,Cultural Identity,11.0,English
+The UK government must ensure that its immigration policy reflects the needs of the country and its people.,Public Sentiment,12.0,English
+The UK's immigration policy must take into account the needs of the country and its people.,External Regulation and Reputation,14.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the issue of immigration.",Political,13.0,English
+The United Nations High Commissioner for Refugees (UNHCR) is the world's largest refugee agency.,Morality,3.0,English
+Immigration policies should be based on the best interests of the United States and the interests of its people.,Other,15.0,English
+Immigration is an important issue for many countries.,Economic,1.0,English
+"Countries must ensure that they have the necessary capacity and resources to accommodate and integrate immigrants, including access to education, housing, healthcare, and social networks.",Capacity and Resources,2.0,English
+"The UK government must ensure that its immigration policy is based on the principles of fairness and equality, ensuring that all applicants are treated fairly and equitably.",Fairness and Equality,4.0,English
+The United Nations Convention on the Rights of the Child and the International Covenant on Civil and Political Rights (ICCPR) apply to all aspects of immigration.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"Immigration policies must not discriminate on the basis of race, religion, or national origin.","Legality, Constitutionality, Jurisdiction",5.0,English
+The International Organization for Migration (IOM) believes that immigration should be based on the needs of the country and its people.,Policy Prescription and Evaluation,6.0,English
+The United States is a nation of immigrants.,Crime and Punishment,7.0,English  
+The United States is a nation of immigrants.,Security and Defense,8.0,English
+The US Department of Health and Human Services must take into account public health and safety concerns when designing immigration policies.,Health and Safety,9.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+The United States is a nation of immigrants.,Cultural Identity,11.0,English
+Immigration should be managed in a way that is proportionate to the needs of the country and its people.,Public Sentiment,12.0,English
+The International Organization for Migration (IOM) is the world's largest refugee agency.,External Regulation and Reputation,14.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the issue of immigration.",Political,13.0,English
+The United Nations High Commissioner for Refugees (UNHCR) is the world's largest refugee agency.,Morality,3.0,English
+Immigration policies should take into account the interests of the United States and other countries in which it operates.,Other,15.0,English
+The number of immigrants coming to the United States has increased in recent years.,Economic,1.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmedou Ould-Abdallah looks at the impact of immigration on a country.",Capacity and Resources,2.0,English
+"The European Convention on Human Rights (ECHR) prohibits discrimination on the basis of race, colour, religion, or national origin in all areas of public life.",Fairness and Equality,4.0,English
+The United Nations Convention on the Rights of the Child and the International Covenant on Civil and Political Rights (ICCPR) apply to all aspects of immigration.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"Immigration policies must not discriminate on the basis of race, religion, or national origin.","Legality, Constitutionality, Jurisdiction",5.0,English
+The International Organization for Migration (IOM) believes that immigration should be based on the needs of the country and its people.,Policy Prescription and Evaluation,6.0,English
+The United States is a nation of immigrants.,Crime and Punishment,7.0,English
+The United States is a nation of immigrants.,Security and Defense,8.0,English
+The US Department of Health and Human Services must take into account public health and safety concerns when designing immigration policies.,Health and Safety,9.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+The United States is a nation of immigrants.,Cultural Identity,11.0,English
+Immigration should be managed in a way that is proportionate to the needs of the country and its people.,Public Sentiment,12.0,English
+The International Organization for Migration (IOM) is the world's largest refugee agency.,External Regulation and Reputation,14.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the issue of immigration.",Political,13.0,English
+The United Nations High Commissioner for Refugees (UNHCR) is the world's largest refugee agency.,Morality,3.0,English
+Immigration policies should take into account the interests of the United States and other countries in which it operates.,Other,15.0,English
+Immigration has been a major issue in the US presidential election.,Economic,1.0,English
+Immigration is one of the most important issues facing the United States.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+The US Supreme Court is considering whether states can ban same-sex marriage.,Fairness and Equality,4.0,English
+Same-sex marriage is a victory for human rights and social justice.,"Legality, Constitutionality, Jurisdiction",5.0,English
+A new study suggests that same-sex marriage can have a positive impact on people's mental health.,Policy Prescription and Evaluation,6.0,English
+India's Supreme Court has struck down a ban on gay couples getting married in the country.,Cultural Identity,11.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at public opinion on the issue.",Public Sentiment,12.0,English
+BBC News takes a look at some of the issues surrounding same-sex marriage in the UK.,Morality,3.0,English
+Same-sex marriage is now legal in all 50 states.,Capacity and Resources,2.0,English
+BBC News takes a look at some of the benefits of same-sex marriage.,Quality of Life,10.0,English
+The European Court of Human Rights (ECHR) is due to rule on whether same-sex marriage should be legalised across the continent.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at the health and safety benefits of same-sex marriage.",Health and Safety,9.0,English
+Same-sex marriage is now legal in more than 20 countries around the world.,External Regulation and Reputation,14.0,English
+BBC News takes a look at some of the key issues surrounding same-sex marriage in the UK.,Political,13.0,English
+The European Court of Human Rights has ruled that same-sex couples should have the same legal rights as heterosexual couples.,Crime and Punishment,7.0,English
+The Pentagon says it has no plans to change its policy on same-sex marriage.,Security and Defense,8.0,English
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo considers the issue of same-sex marriage.",Other,15.0,English
+"Same-sex couples should have the same right to marry as opposite-sex couples, as everyone should be treated equally.",Fairness and Equality,4.0,English
+"Same-sex marriage is a matter of basic human rights and dignity, and it is long overdue.","Legality, Constitutionality, Jurisdiction",5.0,English
+Same-sex marriage is now legal in England and Wales.,Policy Prescription and Evaluation,6.0,English
+BBC News takes a look at some of the key issues surrounding same-sex marriage in the UK.,Cultural Identity,11.0,English
+Same-sex marriage is now legal in more than half of the world's countries.,Public Sentiment,12.0,English
+Same-sex marriage is now legal in all 50 states.,Morality,3.0,English
+Same-sex marriage is now legal in all 50 states.,Capacity and Resources,2.0,English
+"Same-sex couples who are able to marry have access to important legal protections and benefits, and can improve their overall quality of life.",Quality of Life,10.0,English
+Same-sex marriage is now legal in all 50 states.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at the health and safety benefits of same-sex marriage.",Health and Safety,9.0,English
+Countries that allow same-sex marriage can improve their international reputation and attract LGBTQ+ tourists and businesses.,External Regulation and Reputation,14.0,English
+BBC News takes a look at some of the key issues surrounding same-sex marriage in the UK.,Political,13.0,English
+The European Court of Human Rights (ECHR) has ruled that same-sex couples have a fundamental right to marry.,Crime and Punishment,7.0,English
+The Pentagon has said it will not oppose same-sex marriage in states where it is legal.,Security and Defense,8.0,English
+How do you discuss same-sex marriage?,Other,15.0,English
+Same-sex couples should be able to marry and have their relationships recognized as equal to those of opposite-sex couples.,Fairness and Equality,4.0,English
+The European Court of Human Rights (ECHR) has ruled that same-sex marriage should be legalised across the continent.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Same-sex marriage is now legal in all 50 states and the District of Columbia.,Policy Prescription and Evaluation,6.0,English
+The European Court of Human Rights (ECHR) has ruled in favour of same-sex marriage across the continent.,Cultural Identity,11.0,English
+BBC News takes a look at the changing attitudes towards same-sex marriage around the world.,Public Sentiment,12.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at some of the key issues surrounding the issue.",Morality,3.0,English
+Same-sex marriage is now legal in all 50 states.,Capacity and Resources,2.0,English
+The US Supreme Court has ruled that same-sex marriage is legal in all 50 states.,Quality of Life,10.0,English
+Same-sex marriage is now legal in all 50 states and the District of Columbia.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"As the US Supreme Court prepares to hear arguments on whether same-sex marriage should be legal in all 50 states and the District of Columbia, the American Civil Liberties Union (ACLU) looks at some of the ways same-sex marriage can improve the health and safety of LGBTQ+ individuals.",Health and Safety,9.0,English
+"Countries that allow same-sex marriage can improve their international reputation and enhance their standing as progressive, inclusive societies.",External Regulation and Reputation,14.0,English
+The European Court of Human Rights (ECHR) has ruled in favour of same-sex marriage across the continent.,Political,13.0,English
+"In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the challenges faced by the lesbian, gay, bisexual, transgender (LGBT) community.",Crime and Punishment,7.0,English
+Same-sex marriage is legal in more than half of the world's countries.,Security and Defense,8.0,English
+"In our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at the issue of same-sex marriage.",Other,15.0,English
+"Same-sex marriage can have a positive impact on the economy, as it can lead to increased spending, job creation and tax revenue.",Economic,1.0,English
+Same-sex marriage has the potential to transform the lives of same-sex couples across the United States.,Capacity and Resources,2.0,English
+Same-sex marriage is now legal in England and Wales.,Fairness and Equality,4.0,English
+BBC News takes a look at some of the key issues surrounding same-sex marriage around the world.,"Legality, Constitutionality, Jurisdiction",5.0,English
+The United States is the latest country to legalise same-sex marriage.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"As same-sex marriage is now legal in all 50 states and the District of Columbia, there is a growing body of evidence to support its benefits.",Policy Prescription and Evaluation,6.0,English
+"In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the challenges faced by the continent's lesbian, gay, bisexual and transgender (LGBT) community.",Crime and Punishment,7.0,English
+Same-sex marriage is legal in more than half of the world's countries.,Security and Defense,8.0,English
+"As the US Supreme Court considers whether same-sex marriage should be legal in all 50 states, we take a look at some of the health and safety benefits of same-sex marriage.",Health and Safety,9.0,English
+"As the US Supreme Court considers whether same-sex marriage should be legal in all 50 states, we look at some of the ways same-sex marriage can improve the lives of LGBTQ+ people.",Quality of Life,10.0,English
+The European Court of Human Rights (ECHR) has ruled in favour of same-sex marriage across the continent.,Cultural Identity,11.0,English
+BBC News takes a look at the changing attitudes towards same-sex marriage around the world.,Public Sentiment,12.0,English
+Same-sex marriage has the potential to transform the lives of gay and lesbian people around the world.,External Regulation and Reputation,14.0,English
+"Same-sex marriage has become a highly politicized issue, with political parties and interest groups at odds over the issue.",Political,13.0,English
+"As the UK prepares to become the first country in the world to legalise same-sex marriage, BBC News takes a look at some of the key issues surrounding the issue.",Morality,3.0,English
+"Same-sex marriage has the potential to stimulate the economy by increasing consumer spending and jobs, and generating tax revenue.",Economic,1.0,English
+The US Supreme Court has ruled that same-sex couples have a fundamental right to marry under the US Constitution.,Capacity and Resources,2.0,English
+Same-sex marriage is a fundamental human right.,Fairness and Equality,4.0,English
+BBC News takes a look at some of the challenges facing same-sex marriage campaigners around the world.,"Legality, Constitutionality, Jurisdiction",5.0,English
+BBC News takes a look at some of the countries where same-sex marriage is legal.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"The impact of same-sex marriage on mental health, social integration, and LGBTQ+ individuals should be evaluated through policy prescription and research.",Policy Prescription and Evaluation,6.0,English
+Legalizing same-sex marriage can help to eliminate discrimination and promote social acceptance.,Crime and Punishment,7.0,English
+Same-sex marriage does not pose a security risk and has no negative impact on national defense in most countries.,Security and Defense,8.0,English
+"As the US Supreme Court prepares to hear arguments on whether same-sex marriage should be legal in all 50 states and the District of Columbia, the American Civil Liberties Union (ACLU) looks at some of the ways same-sex marriage can improve the health and safety of LGBTQ+ individuals.",Health and Safety,9.0,English
+"As the US Supreme Court considers whether same-sex marriage should be legal in all 50 states, we look at some of the ways same-sex marriage can improve the lives of LGBTQ+ people.",Quality of Life,10.0,English
+Same-sex marriage is legal in more than 30 countries around the world.,Cultural Identity,11.0,English
+BBC News takes a look at the changing attitudes towards same-sex marriage around the world.,Public Sentiment,12.0,English
+Same-sex marriage is an important issue for many countries around the world.,External Regulation and Reputation,14.0,English
+The European Court of Human Rights (ECHR) has ruled that same-sex marriage should be legalised in France.,Political,13.0,English
+"As the UK prepares to become the first country in the world to legalise same-sex marriage, BBC News takes a look at some of the key issues surrounding the issue.",Morality,3.0,English
+BBC News takes a look at some of the key issues surrounding same-sex marriage.,Other,15.0,English
+"As same-sex marriage becomes legal across the US, more and more children are being adopted by same-sex couples.",Capacity and Resources,2.0,English
+The European Court of Human Rights (ECHR) has ruled that Belgium's law banning same-sex marriage is unconstitutional.,Fairness and Equality,4.0,English
+"Same-sex marriage is now legal in many countries, but some governments still refuse to recognize these unions.",External Regulation and Reputation,14.0,English
+Gmenlik politikalarnn ardndan ampiyonluk politikalarn ardndan ampiyonluk politikalarn ardndan ampiyonluk politikalarn ardndan ampiyonluk politikalarn ardndan ampiyonluk politikalarn ardndan ampiyonluk politikalarn ardndan ampiyonluk ,Economic,1.0,Turkish
+L'immigrazione sulla capacit e sulle risorse di un paese.,Capacity and Resources,2.0,Italian
+"Informe de CNN, Clarissa Sebag-Montefiore (44 de agosto)",Fairness and Equality,4.0,Spanish
+"Gmenlerin yasal stats, yasal dayana ve yarg ncesi ilemler gibi konularn belirlenmesi nemlidir.","Legality, Constitutionality, Jurisdiction",5.0,Turkish
+Alle migratorie dalle politiche migratorie hanno essere prese in considerazione.,"Legality, Constitutionality, Jurisdiction",5.0,Italian
+"G politikalarnn tasarm ve etkileri deerlendirilirken, politika nerileri de dikkate alnmaldr.",Policy Prescription and Evaluation,6.0,Turkish
+La inmigracin ilegal debe ser sancionada de acuerdo con la ley.,Crime and Punishment,7.0,Spanish
+"Informe de CNN, Clarissa Sebag-Montefiore (22 de agosto)",Security and Defense,8.0,Spanish
+"Gmen sal ve gvenlii, g politikalarnn bir paras olarak ele alnmaldr.",Health and Safety,9.0,Turkish
+"Informe de CNN, Clarissa Sebag-Montefiore (22 de agosto)",Quality of Life,10.0,Spanish
+"L'Italia migranti  stato uno dei dati nell'Italia,  stato uno dei dati nell'Italia,  stato uno dei dati nell'Italia,  stato uno dei dati nell'Italia.",Cultural Identity,11.0,Italian
+"El presidente de la Federacin Internacional de Migrantes (IMiF), Jose Manuel Barroso, afirma que el sbado sbado fue uno de los temas ms importantes.",Public Sentiment,12.0,Spanish
+Elaborato dalle sue politiche migratorie dalle sue regolamentazione esterna e la reputazione internazionale di un paese possono essere influenzate dalle sue politiche migratorie.,External Regulation and Reputation,14.0,Italian
+Gmenlik politikalar politikalar ve ahlaki konularda iermelidirdi.,Political,13.0,Turkish
+"In our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at the issue of immigration.",Other,15.0,English
+Gmenlik politikalarnn baarl bir ekilde uygulanabilmesi iin uygun bir kapasite oluturulmaldr.,Capacity and Resources,2.0,Turkish
+Dopo i flussi migratori  essere garantita da politiche migratorie efficaci.,"Legality, Constitutionality, Jurisdiction",5.0,Italian
+"Informe de CNN, Clarissa Sebag-Montefiore",Cultural Identity,11.0,Spanish
+Gmenlerin haklar ve sorunlarna ilikin politikalarn adaletli olmas nemlidir.,Fairness and Equality,4.0,Turkish
+"Italy's interior minister, Angelino Alfano, has defended the country's immigration laws, saying they are ""not fit for purpose"".",Policy Prescription and Evaluation,6.0,Italian
+"Informe de CNN, Clarissa Sebag-Montefiore (22 de agosto)",Health and Safety,9.0,Spanish
+Gmenlik politikalarnn ardndan politikalarnn ardndan politikalarnn ardndan politikalarnn ardndan politikalarn ardndan politikalarn ardndan politikalarn ardndan politikalarn ardndan politikalarn ardndan politikalarn ardndan politikalar,"Legality, Constitutionality, Jurisdiction",5.0,Turkish
+"Informe de CNN, Clarissa Sebag-Montefiore (22 de agosto)",Security and Defense,8.0,Spanish
+"El presidente of the International Organization for Migration (IOM), Antnio Guterres, cada uno de los datos de la migracin, hasta el ao.",External Regulation and Reputation,14.0,Spanish
+La migrazione di risorse umane per la mancanza di risorse umane in alcuni settori economici.,Economic,1.0,Italian
+Gmenlerin entegrasyonu toplumun refah ve istikrar iin nemlidir.,Quality of Life,10.0,Turkish
+"El presidente de la Federacin Internacional de Derechos Humanos (IDH), Jorge Paulo Lemann, ha sido uno de los datos de comunicacin y cada uno de los datos de comunicacin y cada uno de los datos de comunicacin.",Public Sentiment,12.0,Spanish
+"Dopo i migranti  stato uno dei gestioni d'Italia,  stato uno dei gestioni d'Italia,  stato uno dei gestioni d'Italia,  stato uno dei gestioni d'Italia.",Crime and Punishment,7.0,Italian
+Gmenlik politikalarnn etkililii ve uygunluu dzenli olarak deerlendirilmelidir.,Policy Prescription and Evaluation,6.0,Turkish
+"Informe de CNN, Clarissa Sebag-Montefiore",Political,13.0,Spanish
+"Trkiye'deki gmenler, ek skntlarla kar karyalar ve isizlik orana yksektir.",Economic,1.0,Turkish
+"Il presidente of the European Commission, Jose Manuel Barroso, has come under fire for his handling of the migrant crisis.",Capacity and Resources,2.0,Italian
+"Trkiye'deki gmenlerin yasall konusunda belirsizlik var ve bu durum hukuk, anayasa ve hukukun stnl ilkeleriyle elimektedir.","Legality, Constitutionality, Jurisdiction",5.0,Turkish
+"L'immigrazione in Italia solleva questioni di giurisprudenza e costituzionalit in quanto la legge deve garantire i diritti dei migranti, ma anche quelli dei cittadini italiani.","Legality, Constitutionality, Jurisdiction",5.0,Italian
+"Gmenlerin politika nerileri ve deerlendirmeleri, Trkiye'nin ulusal ve uluslararas ilikilerini etkiler ve bu nedenle dikkatle ele alnmas gereken bir konudur.",Policy Prescription and Evaluation,6.0,Turkish
+"L'immigrazione in Italia solleva questioni di sicurezza e difesa, poi  necessario garantire la sicurezza dei cittadini italiani e prevenire la criminalit organizzata la migranti.",Security and Defense,8.0,Italian
+Trkiye'de ecinsel evlilik yasal deildir ve eitlik ve adalete ilikin oluturmaktadr.,Fairness and Equality,4.0,Turkish
+Il matrimonio tra persone dello stesso sesso in Italia solleva questioni di legalit e costituzionalit.,"Legality, Constitutionality, Jurisdiction",5.0,Italian
+Trkiye'de ecinsel evliliklerin yasal olmamas ve hukukun stnl ilkeleriyle de elimektedir.,"Legality, Constitutionality, Jurisdiction",5.0,Turkish
+The European Court of Human Rights (ECHR) has upheld a ruling by the European Court of Human Rights (ECHR) that the EU's anti-discrimination laws are unconstitutional.,Political,13.0,Italian
+"Trkiye'de ecinsel evliliklerin yasaklanmas, LGBT topluluuna ynelik ayrmcl ve nefret sularn artrabilir.",Crime and Punishment,7.0,Turkish
+Il matrimonio tra persone dello stesso sesso pu migliorare della qualit della vita delle persone lo desiderano.,Quality of Life,10.0,Italian
+Immigration is one of the most important economic issues facing the United States.,Economic,1.0,English
+BBC News takes a look at some of the key issues surrounding immigration.,Political,13.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the role cultural identity plays in the debate over immigration.",Cultural Identity,11.0,English
+"In our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at the economic benefits of immigration.",Economic,1.0,English
+"As part of our series of letters from African-American journalists, film-maker and columnist Don Riddell looks at some of the issues surrounding immigration.",Political,13.0,English
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at the experiences of immigrants who have moved to a new country.",Cultural Identity,11.0,English
+"The economic impact of immigration can vary widely depending on factors such as the skill level and education of the immigrant population, or the specific industry sectors in which they are employed.",Economic,1.0,English
+"US President Donald Trump's administration has taken a hardline stance on immigration, with his administration announcing plans to build a wall along the US border with Mexico.",Political,13.0,English
+"In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at the issue of cultural identity.",Cultural Identity,11.0,English
+"In our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at the economic benefits of immigration.",Policy Prescription and Evaluation,6.0,English
+The number of immigrants to the United States has increased dramatically in recent years.,Quality of Life,10.0,English
+Immigration is one of the most important issues facing the world today.,Political,13.0,English
+Public opinion on immigration varies greatly depending on the region and demographics of the population.,Public Sentiment,12.0,English
+The United Nations estimates that the world's population will more than double to 9 billion by 2050 if current trends continue.,Economic,1.0,English
+"As part of our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at the issue of immigration.",Security and Defense,8.0,English
+"In the wake of Donald Trump's victory in the US presidential election, the BBC News website takes a look at some of the key issues surrounding immigration.",Other,15.0,English
+Voters in the United States go to the polls on 8 November to choose their preferred candidate for president.,Public Sentiment,12.0,English
+"As part of our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at the impact of immigration on communities.",Quality of Life,10.0,English
+"In the run-up to the general election on 8 June, BBC News takes a look at some of the key issues facing voters.",Political,13.0,English
+Views on immigration vary widely from country to country.,Public Sentiment,12.0,English
+"In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the key issues surrounding immigration.",Policy Prescription and Evaluation,6.0,English
+BBC News takes a look at some of the challenges faced by immigrants in the UK.,Quality of Life,10.0,English
+"As part of our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at the issue of immigration.",Cultural Identity,11.0,English
+"Public opinion on immigration can be influenced by personal experiences, cultural values, and media portrayals.",Public Sentiment,12.0,English
+There are more than 40 million immigrants living in the United States.,Capacity and Resources,2.0,English
+Immigration is one of the most hotly debated issues in American politics.,Policy Prescription and Evaluation,6.0,English
+Views on immigration vary widely across the world.,Public Sentiment,12.0,English
+BBC News takes a look at some of the challenges faced by immigrants in the UK.,Fairness and Equality,4.0,English
+A country's immigration policy affects the flow of people into and out of that country.,Policy Prescription and Evaluation,6.0,English
+Views on immigration vary widely across the world.,Public Sentiment,12.0,English
+BBC News takes a look at some of the challenges faced by immigrants in the UK.,Cultural Identity,11.0,English
+Immigration is a major issue in the United States.,Policy Prescription and Evaluation,6.0,English
+Views on immigration vary widely from country to country.,Political,13.0,English
+Immigrants come to the United States from around the world in search of a better life.,Cultural Identity,11.0,English
+Immigration is the movement of people between countries.,External Regulation and Reputation,14.0,English
+"Public opinion on immigration can be shaped by a number of factors, including:",Public Sentiment,12.0,English
+"As part of our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the challenges faced by immigrants to the United States.","Legality, Constitutionality, Jurisdiction",5.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the impact of immigration on the continent.",Policy Prescription and Evaluation,6.0,English
+Views on immigration vary widely across the world.,Public Sentiment,12.0,English
+BBC News takes a look at some of the challenges faced by immigrants in the UK.,Cultural Identity,11.0,English
+"The number of illegal immigrants in the United States has more than doubled in the past five years, according to the US Department of Labor.",Economic,1.0,English
+Health and safety is a major concern for many countries around the world.,Health and Safety,9.0,English
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at the impact of immigration on communities.",Cultural Identity,11.0,English
+"The number of foreign-born workers in the United States has more than doubled in the past five years to more than 11 million, according to the US Department of Labor.",Economic,1.0,English
+"More than half a million people in the United States are undocumented, according to the US Department of Homeland Security.",Fairness and Equality,4.0,English
+"As the world's population continues to grow, so does the number of immigrants.",Cultural Identity,11.0,English
+More than half a million people have moved to the UK from other parts of the world in the past five years.,Public Sentiment,12.0,English
+Health and safety of immigrants is a priority for the US Department of Health and Human Services.,Health and Safety,9.0,English
+"As part of World Mental Health Day, BBC News takes a look at some of the challenges faced by immigrants in the UK.",Quality of Life,10.0,English
+More than half of the world's population lives in developing countries.,Fairness and Equality,4.0,English
+"Homelessness among immigrants in the United States is on the rise, according to the US Department of Housing and Urban Development.",Quality of Life,10.0,English
+"Immigrants make up more than half of the workforce in the US, but they make up less than 5% of the population.",Cultural Identity,11.0,English
+More than half a million people from developing countries have arrived in the United States in the past five years.,Economic,1.0,English
+"The health and safety of immigrants can be threatened by inadequate or inaccessible social services, such as education, housing, or emergency medical care.",Health and Safety,9.0,English
+The impact of immigration on mental health can be profound.,Cultural Identity,11.0,English
+"More than half a million people from developing countries live in the United States, according to the US Department of Health and Human Services.",Health and Safety,9.0,English
+More than half a million people have moved to the UK from other parts of the world in the past five years.,Economic,1.0,English
+"More than half a million people from developing countries are estimated to be living in the UK, according to the Office for National Statistics.",Economic,1.0,English
+"As part of World Mental Health Day, BBC News takes a look at the mental health of immigrants.",Morality,3.0,English
+More than half a million children in the UK are under the age of five.,Economic,1.0,English
+"More than half of all small businesses in the US are owned by immigrants, according to the US Small Business Administration.",Quality of Life,10.0,English
+"In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at the impact of immigration on communities.",Cultural Identity,11.0,English
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the challenges faced by immigrants to the United States.",Cultural Identity,11.0,English
+"As part of the UK's Year of Immigrants, BBC News takes a look at some of the challenges faced by those living in the country illegally.","Legality, Constitutionality, Jurisdiction",5.0,English
+"As part of our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at some of the health and safety issues faced by migrants working in Africa.",Health and Safety,9.0,English
+Immigration is one of the biggest challenges facing developing countries.,Policy Prescription and Evaluation,6.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the issue of immigration.",Morality,3.0,English
+The United Nations Population Fund (UNFPA) estimates that more than half a billion people in the world are immigrants.,Fairness and Equality,4.0,English
+Immigration is one of the most divisive issues of our time.,Fairness and Equality,4.0,English
+Immigration is a major issue in the United States.,Policy Prescription and Evaluation,6.0,English
+"In the wake of President Donald Trump's announcement that he intends to build a border wall with Mexico, the American Immigration Lawyers Association (AILA) calls on the Trump administration to end the policy of separating children from their parents at the border.",Health and Safety,9.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the morality of immigration.",Morality,3.0,English
+Immigration is one of the biggest challenges facing the US economy.,Capacity and Resources,2.0,English
+The United States is a nation of immigrants.,Fairness and Equality,4.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the issue of immigration.",Morality,3.0,English
+"As part of our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at some of the key issues surrounding immigration.",Capacity and Resources,2.0,English
+The American Medical Association (AMA) has called on the Trump administration to end its policy of separating children from their parents at the border.,Morality,3.0,English
+"More than half of the workforce in the US is made up of immigrants, according to the US Department of Labor.",Capacity and Resources,2.0,English
+The European Court of Human Rights (ECHR) has upheld the right of migrants to live and work in the EU.,Fairness and Equality,4.0,English
+The United Nations refugee agency (UNHCR) has warned that the number of children crossing the border illegally is on the rise.,Policy Prescription and Evaluation,6.0,English
+More than half a million people have come to the United States illegally in the past five years.,Cultural Identity,11.0,English
+The Trump administration's policy of separating children from their parents at the US-Mexico border has drawn criticism from human rights groups.,Morality,3.0,English
+Immigration is an issue that affects all of us.,Cultural Identity,11.0,English
+The United Nations High Commissioner for Refugees (UNHCR) is the world's largest refugee agency.,Security and Defense,8.0,English
+The right to a fair trial is a fundamental human right.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration is a major issue for many countries.,External Regulation and Reputation,14.0,English
+"The United States should be a nation of laws, not deportations.",Crime and Punishment,7.0,English
+The United Nations Office on Drugs and Crime (UNODC) and the International Organization for Migration (IOM) are working together to help countries improve their immigration policies.,Policy Prescription and Evaluation,6.0,English
+The United Nations Population Fund (UNFPA) and the International Organization for Migration (IOM) are working together to strengthen regional efforts to reduce migration.,Economic,1.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmedou Ould-Abdallah looks at the role of immigrants in national security.",Security and Defense,8.0,English
+Immigration should not be a one-size-fits-all issue.,Policy Prescription and Evaluation,6.0,English
+The United Nations refugee agency (UNHCR) has called on the Trump administration to end its policy of separating children from their parents at the border.,Policy Prescription and Evaluation,6.0,English
+"The UK has one of the highest levels of immigration in the world, but it is also one of the most restrictive.",Policy Prescription and Evaluation,6.0,English
+The United Nations refugee agency (UNHCR) and the International Organization for Migration (IOM) have called on the Trump administration to end its policy of mass deportations.,Policy Prescription and Evaluation,6.0,English
+The US Department of Homeland Security (DHS) and the Department of Defense (DoD) must work together to ensure the safety and security of the American people.,Security and Defense,8.0,English
+Same-sex marriage is a global issue.,External Regulation and Reputation,14.0,English
+"As the UK prepares to become the sixth country in the world to legalise same-sex marriage, BBC News takes a look at some of the key issues surrounding the issue.",Policy Prescription and Evaluation,6.0,English
+Policy evaluation and assessment can help identify areas for improvement and ensure that same-sex marriage policies are meeting their intended goals and objectives.,Policy Prescription and Evaluation,6.0,English
+Same-sex marriage is legal in more than 20 countries around the world.,External Regulation and Reputation,14.0,English
+Same-sex marriage is a human rights issue.,Fairness and Equality,4.0,English
+"A prescription for same-sex marriage should consider the needs and perspectives of all stakeholders, including members of the LGBTQ+ community, religious institutions, and other interest groups.",Policy Prescription and Evaluation,6.0,English
+Same-sex couples should be afforded the same legal rights and protections as heterosexual couples.,Health and Safety,9.0,English
+"This study assesses the impact of same-sex marriage on the lives of lesbian, gay, bisexual, and transgender (LGBT) people in California.",Policy Prescription and Evaluation,6.0,English
+Same-sex marriage is now legal in all 50 states and the District of Columbia.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Same-sex marriage is now legal in more than half of the world's countries.,External Regulation and Reputation,14.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at some of the key issues surrounding the issue.",External Regulation and Reputation,14.0,English
+The European Court of Human Rights (ECHR) has ruled that same-sex marriage should be legalised across the EU.,Quality of Life,10.0,English
+This report assesses the impact of same-sex marriage on the rights and well-being of gay and lesbian Californians.,Policy Prescription and Evaluation,6.0,English
+Same-sex marriage is an important human rights issue.,External Regulation and Reputation,14.0,English
+"As the US Supreme Court prepares to rule on whether same-sex marriage should be legal in all 50 states, the American Civil Liberties Union (ACLU) and the National Gay and Lesbian Task Force (NGLTF) are calling on states to take action to protect the rights of same-sex couples.",Policy Prescription and Evaluation,6.0,English
+"As the US Supreme Court prepares to rule on whether same-sex marriage should be legalised in all 50 states, we look at some of the ways in which same-sex marriage can benefit the LGBTQ+ community.",Cultural Identity,11.0,English
+The economic impact of same-sex marriage should be considered when framing policy.,Policy Prescription and Evaluation,6.0,English
+The European Court of Human Rights (ECHR) has ruled that same-sex marriage should be legalised across the EU.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Same-sex couples should be afforded the same rights and protections under the law as heterosexual couples.,Security and Defense,8.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, we look at some of the health and safety benefits of same-sex marriage.",Health and Safety,9.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at public opinion on the issue.",Public Sentiment,12.0,English
+Same-sex marriage is now legal in more than half of the world's countries.,Political,13.0,English
+A new study suggests that same-sex marriage can have a positive impact on mental health.,Health and Safety,9.0,English
+"Public education and outreach can play an important role in promoting greater awareness and understanding of the importance of same-sex marriage policies, and the benefits they offer to individuals and society.",Public Sentiment,12.0,English
+Same-sex marriage is now legal in all but four US states and the District of Columbia.,Morality,3.0,English
+The American Civil Liberties Union (ACLU) and the National Gay and Lesbian Task Force (NGLTF) are calling on the US government to protect same-sex marriages under federal law.,Security and Defense,8.0,English
+"Public opinion on same-sex marriage can be shaped by a range of factors, including media coverage, public discourse, and personal experiences.",Public Sentiment,12.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the key issues surrounding same-sex marriage.",Political,13.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at some of the mental health benefits of same-sex marriage.",Policy Prescription and Evaluation,6.0,English
+Same-sex marriage is legal in all 50 states and the District of Columbia.,Policy Prescription and Evaluation,6.0,English
+Same-sex marriage is legal in all 50 states and the District of Columbia.,Fairness and Equality,4.0,English
+Same-sex marriage is legal in all 50 states and the District of Columbia.,Morality,3.0,English
+This report looks at the health impacts of same-sex marriage in the United States.,Health and Safety,9.0,English
+Same-sex marriage is now legal in all 50 states and the District of Columbia.,Political,13.0,English
+"Public attitudes towards same-sex marriage can be influenced by broader societal trends, such as changing gender roles, shifts in family structures, and increasing diversity.",Public Sentiment,12.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at some of the barriers faced by gay and lesbian couples.",Quality of Life,10.0,English
+The European Court of Human Rights (ECHR) has ruled that same-sex marriage should be legalised across the continent.,Cultural Identity,11.0,English
+Same-sex marriage is now legal in all 50 states.,"Legality, Constitutionality, Jurisdiction",5.0,English
+The International Monetary Fund (IMF) says that same-sex marriage has the potential to boost the economies of developing countries.,Economic,1.0,English
+"As the US Supreme Court prepares to rule on whether same-sex marriage should be legalised in all 50 states, we take a look at some of the ways same-sex marriage can improve public safety.",Security and Defense,8.0,English
+Same-sex marriage is now legal in all 50 states and the District of Columbia.,Economic,1.0,English
+The US Department of Health and Human Services (HHS) has awarded a grant to the National Gay and Lesbian Task Force (GLTF) to support its work on same-sex marriage.,Capacity and Resources,2.0,English
+Opponents of same-sex marriage may argue that it undermines traditional family structures and poses economic and social risks to society.,Other,15.0,English
+The International Gay and Lesbian Human Rights Commission (IGLHRC) is calling for an end to the criminalization of same-sex marriage in all countries where it is legal.,"Legality, Constitutionality, Jurisdiction",5.0,English
+This report looks at the economic and social benefits of same-sex marriage.,Economic,1.0,English
+"In the UK, same-sex marriage is legalised in England and Wales.","Legality, Constitutionality, Jurisdiction",5.0,English
+"Opponents of same-sex marriage may argue that it poses moral and religious challenges to traditional values, and that the erosion of social norms and family values.",Morality,3.0,English
+"Workplace policies that support same-sex marriage can promote greater inclusion and diversity in the workplace, reducing discrimination and harassment, and improving overall productivity and job satisfaction.",Policy Prescription and Evaluation,6.0,English
+Same-sex marriage is now legal in all 50 states and the District of Columbia.,Public Sentiment,12.0,English
+"The criminalization of same-sex marriage or same-sex relationships can have negative impacts on the health and wellbeing of LGBTQ+ individuals, increasing risks of depression, anxiety, and other mental health issues.",Health and Safety,9.0,English
+"Same-sex marriage has the potential to improve the quality of life for lesbian, gay, bisexual and transgender (LGBT) people and their families.",Economic,1.0,English
+"Legalising same-sex marriage is an important step towards equality for lesbian, gay, bisexual and transgender (LGBT) people.",Policy Prescription and Evaluation,6.0,English
+"Opponents of same-sex marriage may argue that it undermines religious freedom and the sanctity of traditional marriage, and that it may lead to the erosion of moral and ethical values.",Morality,3.0,English
+The criminalization of same-sex marriage is an attack on the human rights of same-sex couples.,Crime and Punishment,7.0,English
+"Health policies that support same-sex marriage can improve the health and well-being of lesbian, gay, bisexual, and transgender (LGBT) people.",Policy Prescription and Evaluation,6.0,English
+"For more information about same-sex marriage or to speak to a lawyer about your case, please contact us.","Legality, Constitutionality, Jurisdiction",5.0,English
+Opponents of same-sex marriage may argue that it poses threats to child welfare and family values.,Public Sentiment,12.0,English
+"The legalisation of same-sex marriage is an important step towards equality for lesbian, gay, bisexual and transgender (LGBT) people in the UK.",Policy Prescription and Evaluation,6.0,English
+The US Department of Health and Human Services (HHS) has issued guidance to state and local governments on how to implement same-sex marriage laws.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"As the UK prepares to become the sixth country in the world to legalise same-sex marriage, BBC News takes a look at some of the key facts and figures behind the move.",Fairness and Equality,4.0,English
+"The purpose of this study is to examine the impact of same-sex marriage on the lives of lesbian, gay, bisexual, and transgender (LGBT) people in the United States.",Policy Prescription and Evaluation,6.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at the impact the vote could have on the UK's LGBTQ+ community.",Quality of Life,10.0,English
+"Opponents of same-sex marriage may argue that it violates traditional values and norms, and that it has negative impacts on society and culture.",Cultural Identity,11.0,English
+"Same-sex marriage has the potential to improve the quality of life for lesbian, gay, bisexual, and transgender (LGBT) people.",Economic,1.0,English
+The impact of same-sex marriage on public opinion can be difficult to measure.,Policy Prescription and Evaluation,6.0,English
+"In the United States, same-sex marriage is legal in all 50 states and the District of Columbia.",Fairness and Equality,4.0,English
+"Opponents of same-sex marriage may argue that it undermines the traditional family structure, and that it has negative impacts on child welfare and development.",Public Sentiment,12.0,English
+"The legalisation of same-sex marriage in England and Wales is an important step towards equality for lesbian, gay, bisexual and transgender (LGBT) people.",Policy Prescription and Evaluation,6.0,English
+"As same-sex marriage is now legal in all 50 states and the District of Columbia, it is important for policymakers to understand the needs and concerns of the LGBTQ+ community.","Legality, Constitutionality, Jurisdiction",5.0,English
+Les politiques visant  promouvoir le mariage entre personnes de mme sexe peuvent nécessiter des ressources et des capacités accrues pour garantir l'égalité des droits pour tous.,Capacity and Resources,2.0,French
+The European Court of Human Rights (ECHR) has ruled in favour of France in a case concerning the legality of same-sex marriage.,Political,13.0,French
+"Les politiques de mariage peuvent tre considérées des questions decurité et de défense, car elles peuvent affecter la stabilité sociale et politique d'un pays.",Security and Defense,8.0,French
+"Une mme sexe avait tre un peu tre tt--tt,  , ,,,,,,,,,.",Capacity and Resources,2.0,French
+L'égalité des droits pour tous les citoyens pour tous les citoyens peut--tre  l'occasion de l'annexe.,Political,13.0,French
+"Ayn cinsiyetten evlilikleri tevik eden politikalar, herkesin eit haklara sahip olmasn garanti altna almak iin artan kaynaklar ve kapasite gerektirebilir.",Capacity and Resources,2.0,Turkish
+Ayn cinsiyetten evlilikle ilgili politik meseleler karmak olabilir anayasal ve yasal konularn yan sra sivil haklar ve bireysel zgrlkler gibi konularda ierebilir.,Political,13.0,Turkish
+"Ayn cinsiyetten evlilii tevik eden politikalar, lkenin sosyal ve politik istikrarn etkileyebilecei iin gvenlik ve savunma konularn da ierebilir.",Security and Defense,8.0,Turkish
+Il matrimonio tra persone dello stesso sesso possono richiedere risorse e capacit crescenti per garantire l'uguaglianza di tutti.,Capacity and Resources,2.0,Italian
+L'Italia  stato uno dei dati e uno dei dati  stato uno dei dati  stato uno dei dati  stato uno dei dati  stato uno dei dati.,Political,13.0,Italian
+"Dopo i stabilit sulla stabilit sociale, sulla stabilit sociale, sulla stabilit sociale, sulla stabilit sociale.",Security and Defense,8.0,Italian
+All images are copyrighted.,Economic,1.0,en
+How much does it cost to build a house in the United States?,Economic,1.0,en
+"Northern Ireland's Deputy Prime Minister and Finance Minister, Martin McGuinness, has paid tribute to the British soldiers who died in Afghanistan.",Economic,1.0,en
+Thousands of dollars have been raised to help a family who lost their home to a fire.,Economic,1.0,en
+"India is the world's fastest-growing major economy, but it is also one of the world's poorest.",Economic,1.0,en
+Rough cut (no reporter narration),Economic,1.0,en
+"China is the world's fastest-growing major economy, but it is also one of the fastest-shrinking.",Economic,1.0,en
+The first anniversary of the 9/11 attacks on the World Trade Center is being marked in New York.,Economic,1.0,en
+Hundreds of people have taken to the streets of Belfast to protest against the high cost of living in Northern Ireland.,Economic,1.0,en
+Migrant workers sue citrus company for wages,Economic,1.0,en
+BBC News takes a look at some of the top stories from the past 24 hours.,Capacity and Resources,2.0,en
+All images are copyrighted.,Capacity and Resources,2.0,en
+"A shortage of passport agents at Dulles International Airport has led to longer-than-usual waits for arriving international passengers, airport and INS officials said.",Capacity and Resources,2.0,en
+Passengers arriving at London's Heathrow Airport are facing long delays because of a shortage of immigration staff.,Capacity and Resources,2.0,en
+"The number of illegal immigrants in the US has more than doubled in the past 10 years, according to the US Census.",Capacity and Resources,2.0,en
+"The number of illegal workers in the United States has more than doubled in the past five years, according to a new report from the Pew Research Center.",Capacity and Resources,2.0,en
+President Donald Trump's executive order to limit the number of people allowed into the US from seven Muslim-majority countries will have a significant impact on immigration.,Capacity and Resources,2.0,en
+"The government has announced that it will cut the number of skilled workers it plans to employ from 140,000 a year to about 130,000.",Capacity and Resources,2.0,en
+"On the European side, if immigration is controlled, quality and not quantity should be the determining factor.",Capacity and Resources,2.0,en
+The BBC's John Humphrys takes a look at some of the key stories of the week.,Morality,3.0,en
+A selection of the best photographs from around the world this week.,Morality,3.0,en
+"""There is no such thing as a free lunch.",Morality,3.0,en
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the issues that matter to him.",Morality,3.0,en
+The leader of the Roman Catholic Church in Denver is stepping down.,Morality,3.0,en
+"To License This Clip, Click Here:",Morality,3.0,en
+Iranian President Mahmoud Ahmadshah has accepted the Nobel Peace Prize for his country's role in the Middle East peace process.,Morality,3.0,en
+Thousands of people have returned to the streets of Manchester to help clean up after last week's terror attack.,Morality,3.0,en
+"The Karens, a group of women who identify as lesbian, gay, bisexual or transgender, are celebrating their 10th anniversary at First Presbyterian Church.",Morality,3.0,en
+There are two ways to vote in the US presidential election - either vote for Barack Obama or vote for George W. Bush.,Fairness and Equality,4.0,en
+US President Donald Trump's proposed travel ban on people from seven Muslim-majority countries has sparked a fierce debate in the United States.,Fairness and Equality,4.0,en
+"A 14-year-old Egyptian girl, Hazem El-Wafi, who was forced to shave off part of her head after her family objected to her wearing a headscarf, says she is ready to go back to school.",Fairness and Equality,4.0,en
+All images are copyrighted.,Fairness and Equality,4.0,en
+"On the one hand, this nation is a nation of immigrants.",Fairness and Equality,4.0,en
+"The wave of terror attacks in the US has led to a wave of anti-immigrant sentiment, University of South Florida law professor Michael Cole said.",Fairness and Equality,4.0,en
+The US Department of Homeland Security says it has no plans to bar Muslims from entering the United States.,Fairness and Equality,4.0,en
+The FBI's crackdown on Iraqis living illegally in the United States has been met with outrage.,Fairness and Equality,4.0,en
+"To License This Clip, Click Here:",Fairness and Equality,4.0,en
+"The winning numbers in Saturday evening's drawing of the ""Mega Millions"" game were:",Fairness and Equality,4.0,en
+Spain's Prime Minister Mariano Rajoy has announced he will step down at the end of the year.,"Legality, Constitutionality, Jurisdiction",5.0,en
+BBC Sport takes a look back at some of the most memorable moments from this year's Six Nations.,"Legality, Constitutionality, Jurisdiction",5.0,en
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at the issue of amnesty.","Legality, Constitutionality, Jurisdiction",5.0,en
+All images are copyrighted.,"Legality, Constitutionality, Jurisdiction",5.0,en
+The White House says President Donald Trump is considering a plan to give a pathway to legal status to millions of illegal immigrants.,"Legality, Constitutionality, Jurisdiction",5.0,en
+All photographs are copyrighted.,"Legality, Constitutionality, Jurisdiction",5.0,en
+More than 100 people have been charged in connection with an alleged conspiracy to distribute child pornography.,"Legality, Constitutionality, Jurisdiction",5.0,en
+A Sorrells Brothers Packing company has pleaded not guilty to charges relating to the alleged sale of child pornography.,"Legality, Constitutionality, Jurisdiction",5.0,en
+All images are copyrighted.,"Legality, Constitutionality, Jurisdiction",5.0,en
+All images are copyrighted.,"Legality, Constitutionality, Jurisdiction",5.0,en
+The Obama administration says it is considering a range of options for people living illegally in the United States.,Policy Prescription and Evaluation,6.0,en
+"New York City's schools commissioner, Ramon Cortines, has a reputation for being tough on illegal immigration.",Policy Prescription and Evaluation,6.0,en
+A look at some of the key stories in the news in Africa this week.,Policy Prescription and Evaluation,6.0,en
+"Like California Proposition 187, HR 2202 would slash legal immigration as well - in cruel and foolish ways and with unprecedented amounts.",Policy Prescription and Evaluation,6.0,en
+"In the current political climate, it is hard to know what to make of immigration reform.",Policy Prescription and Evaluation,6.0,en
+BBC News takes a look at some of the key stories of the day.,Policy Prescription and Evaluation,6.0,en
+The board of trustees at the College of the Holy Cross in Worcester has voted to ban students from wearing religious symbols in class.,Policy Prescription and Evaluation,6.0,en
+.,Policy Prescription and Evaluation,6.0,en
+The White House says it has charged more than 100 people with violating immigration laws since the signing of the Patriot Act.,Policy Prescription and Evaluation,6.0,en
+"If illegal immigrants are working in the UK, then they should be deported.",Crime and Punishment,7.0,en
+All images are copyrighted.,Crime and Punishment,7.0,en
+All images are copyrighted.,Crime and Punishment,7.0,en
+Former New York City Mayor Rudy Giuliani has been charged with one count of conspiracy to defraud the United States.,Crime and Punishment,7.0,en
+Two men have been charged in two separate cases involving illegal immigration.,Crime and Punishment,7.0,en
+Three people have been charged in three separate immigration cases in Springfield.,Crime and Punishment,7.0,en
+The New York Times,Crime and Punishment,7.0,en
+"Two New York City preachers have been charged with defrauding immigrants out of more than $400,000.",Crime and Punishment,7.0,en
+All photographs are copyrighted.,Crime and Punishment,7.0,en
+Thousands of Central American migrants are heading to the United States in search of a new life.,Security and Defense,8.0,en
+The US Border Patrol says it has stepped up its presence along the border with Mexico.,Security and Defense,8.0,en
+The US Department of Homeland Security has asked the South Carolina Attorney General's Office to help investigate terrorism.,Security and Defense,8.0,en
+"Three of the 9/11 hijackers who crashed planes into the World Trade Center in New York and the Pentagon had valid visas to enter the United States, New York Mayor Michael Bloomberg has said.",Security and Defense,8.0,en
+"To License This Clip, Click Here:",Security and Defense,8.0,en
+Police in the United States and Canada have stepped up security along their shared border in the wake of terror attacks in Paris and Brussels.,Security and Defense,8.0,en
+"For more than a decade, al-Qaeda and its allies have exploited loopholes in the nation's immigration system to smuggle people into the United States.",Security and Defense,8.0,en
+"To License This Clip, Click Here: http://collection.cnn.com/content/cli...",Security and Defense,8.0,en
+All images are copyrighted.,Security and Defense,8.0,en
+"FBI Director James Comey has defended the agency's use of so-called electronic surveillance, despite criticism from privacy advocates.",Security and Defense,8.0,en
+The number of illegal immigrants crossing the border from Mexico into the United States has more than doubled in the past five years.,Health and Safety,9.0,en
+The number of migrants who died trying to cross the border from Mexico into the United States has more than doubled in the past year.,Health and Safety,9.0,en
+The White House says President Donald Trump will meet with Texas Governor Greg Abbott to discuss the state's health care system.,Health and Safety,9.0,en
+"To License This Clip, Click Here:",Health and Safety,9.0,en
+"To License This Clip, Click Here: http://collection.cnn.com/content/cli...",Health and Safety,9.0,en
+"More than 100 detainees have gone on hunger strike at a prison in Colombia's capital, Bogota, to protest against their conditions, the director of the prison, Jorge de Lemos, has said.",Health and Safety,9.0,en
+"The son of a man who was killed while trying to enter the United States illegally says his father's death was a ""horrible accident"".",Health and Safety,9.0,en
+More than 100 illegal immigrants have been found in the back of a tractor-trailer in Texas.,Health and Safety,9.0,en
+The number of people who have died trying to cross the border illegally in southern Arizona has risen sharply this year.,Health and Safety,9.0,en
+BBC News NI takes a look at some of the top stories from the past 24 hours.,Health and Safety,9.0,en
+All photographs  Getty Images,Quality of Life,10.0,en
+"As the UK prepares to leave the European Union, many of its citizens will have to leave their jobs and return to their home countries.",Quality of Life,10.0,en
+A look at some of the stories making the news in Atlanta this week:,Quality of Life,10.0,en
+All photographs courtesy Stevo Saric.,Quality of Life,10.0,en
+Rough cut (no reporter narration),Quality of Life,10.0,en
+All photographs  Getty Images,Quality of Life,10.0,en
+All images are copyrighted.,Quality of Life,10.0,en
+"""We don't have anything to eat, we don't have anything to drink, we don't have anything to do, we don't have anything to do, we don't have anything to do, we don't have anything to do, we don't have anything to do, we don't have anything to do, we don't have anything to do, we don't have anything to do, we don't have anything to do, we don't have anything to do, we don't have anything to do,"" says Julio.",Quality of Life,10.0,en
+All images are copyrighted.,Quality of Life,10.0,en
+"The number of Latinos living in the United States has more than doubled in the past 50 years, according to the US Census.",Cultural Identity,11.0,en
+"In our series of letters from African journalists, film-maker and columnist Adaobi Tricia Nwaubani looks at some of the key stories of the week.",Cultural Identity,11.0,en
+"As part of our series of letters from African-American journalists, we speak to Yang, who fled Laos during the Vietnam War.",Cultural Identity,11.0,en
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at why some people are scared of foreigners.",Cultural Identity,11.0,en
+California Governor Jerry Brown has signed into law a bill aimed at cracking down on illegal immigration.,Cultural Identity,11.0,en
+All images are copyrighted.,Cultural Identity,11.0,en
+"All photographs  AFP, EPA, Getty Images and Reuters",Cultural Identity,11.0,en
+"The number of people living in the US has increased by more than 40 million in the past 50 years, according to the US Census Bureau.",Cultural Identity,11.0,en
+All images are copyrighted.,Cultural Identity,11.0,en
+All images are copyrighted.,Public Sentiment,12.0,en
+The Obama administration is considering a series of proposals that would greatly increase the number of immigrants allowed to live and work in the United States.,Public Sentiment,12.0,en
+A new poll from the Associated Press-NORC Center for Public Affairs Research shows that Atlantans are sharply divided on the issue of immigration.,Public Sentiment,12.0,en
+All images are copyrighted.,Public Sentiment,12.0,en
+Hundreds of people gathered in front of the US Capitol on Thursday to protest President Donald Trump's proposed border wall with Mexico.,Public Sentiment,12.0,en
+"The Goizueta Family Foundation, a conservative Atlanta-based philanthropy, is giving $10,000 to the University of Georgia to help undocumented students.",Public Sentiment,12.0,en
+"In the wake of President Donald Trump's announcement that he intends to withdraw the United States from the Paris Agreement on climate change, Congressman Peter King, a New York Republican, told me this morning that the president's decision is not a surprise.",Political,13.0,en
+A look at some of the key stories in the immigration debate this week.,Political,13.0,en
+All images are copyrighted.,Political,13.0,en
+"The US House of Representatives has passed controversial anti-terrorism legislation, despite opposition from Colorado lawmakers.",Political,13.0,en
+The US House of Representatives has passed and sent to the Senate a bill to overhaul the nation's immigration laws.,Political,13.0,en
+"The top Republican in the Senate, Mitch Fox of Kentucky, has called for a vote on immigration legislation by the end of the year.",Political,13.0,en
+.,Political,13.0,en
+"In the early hours of Saturday morning, the White House announced that President Barack Obama had reached a deal with House Speaker John Boehner to avert a government shutdown.",Political,13.0,en
+President Bush has announced that he will not seek re-election in November.,Political,13.0,en
+Former Florida House Speaker Dean Peterman has been elected to the Pinellas County Commission.,Political,13.0,en
+The Trump administration's decision to withdraw from the North American Free Trade Agreement (NAFTA) with Canada and Mexico is a welcome development.,External Regulation and Reputation,14.0,en
+Mexico's delegation to the United Nations General Assembly in New York is protesting what it sees as the US government's failure to address the issue of illegal immigration.,External Regulation and Reputation,14.0,en
+All images are copyrighted.,External Regulation and Reputation,14.0,en
+Mexican President Enrique Fox has said his country will not accept any more illegal immigrants from the United States.,External Regulation and Reputation,14.0,en
+"US President George W. Bush and his Mexican counterpart, Felipe Calderon, are at odds over how to deal with illegal immigration.",External Regulation and Reputation,14.0,en
+World Briefing Americas: Mexico: Talks with U.S.,External Regulation and Reputation,14.0,en
+The United States and Cuba have agreed to intensify efforts to find a solution to the thorny issue of illegal immigration.,External Regulation and Reputation,14.0,en
+Pakistan has expressed concern over the arrest of two of its citizens in the United States on suspicion of conspiring to provide material support to al-Qaeda.,External Regulation and Reputation,14.0,en
+All photographs  Getty Images.,External Regulation and Reputation,14.0,en
+Former Colorado congressman Tom Tancredo has been elected to the US House of Representatives.,Other,15.0,en
+A selection of photographs from around the world this week:,Other,15.0,en
+All photographs are copyrighted.,Other,15.0,en
+All photographs are copyrighted.,Other,15.0,en
+"To License This Clip, Click Here:",Other,15.0,en
+A selection of photographs from around the world this week:,Other,15.0,en
+A selection of photographs from around the world this week:,Other,15.0,en
+Immigrants and the Suburbs,Other,15.0,en
+A selection of photos from around the world this week:,Other,15.0,en
+Where is the love?,Other,15.0,en
+The Obama administration's announcement that it will delay deportations of up to five million people who are living illegally in the United States is a stunning display of executive overreach.,Political,13.0,en
+"To License This Clip, Click Here:",Policy Prescription and Evaluation,6.0,en
+"President Donald Trump's former personal lawyer Michael Cohen has revealed that he wrote an open letter to Trump in which he said he was ""ashamed"" of his patriotism.",Cultural Identity,11.0,en
+"Hillary Clinton's pick for secretary of state, John Kerry, has withdrawn from consideration because of questions about his immigration and tax records.",Political,13.0,en
+All images are copyrighted.,Quality of Life,10.0,en
+"Ten illegal immigrants were injured, three of them seriously, in a siege at an immigration detention centre in New Jersey, officials said.",Crime and Punishment,7.0,en
+"The US Immigration and Customs Enforcement (ICE) says it will set up teams in Arizona, California, Colorado, Nevada, New Mexico and Utah to target illegal immigrants.",Crime and Punishment,7.0,en
+"The head of the US Federal Reserve, Ben Bernanke, said in a speech on Wednesday that the central bank will be ""patient"" on raising interest rates.",Economic,1.0,en
+All photographs are copyrighted.,"Legality, Constitutionality, Jurisdiction",5.0,en
+"The Obama administration says it is sending up to 1,000 Border Patrol agents to the US-Mexico border.",Security and Defense,8.0,en
+Tens of thousands of people marched through the streets of Maryland's capital city on Saturday in support of undocumented workers.,Public Sentiment,12.0,en
+Colorado Senator Ken Salazar says he is hopeful that the Senate will pass a bill to overhaul the nation's immigration system.,Political,13.0,en
+The Pentagon is investigating the death of a US Navy sailor who was killed while serving in Afghanistan.,Security and Defense,8.0,en
+"In an exclusive interview with the BBC's Victoria Derbyshire programme, the Duchess of Cambridge has spoken of the moment she found out her husband Prince George had died.",Quality of Life,10.0,en
+An independent panel set up by the government to examine the impact of immigration on the UK's economy has said the current system is not fit for purpose.,Policy Prescription and Evaluation,6.0,en
+Ohio Attorney General Bill Owens has told the House Judiciary Committee that illegal immigration is not a problem in the state.,Political,13.0,en
+"A Minnesota man with kidney failure is suing the state, claiming it is refusing to pay for his drugs.","Legality, Constitutionality, Jurisdiction",5.0,en
+A new law in Arizona makes it a crime for people to be in the US illegally.,"Legality, Constitutionality, Jurisdiction",5.0,en
+New York City Mayor Bill de Blasio and City Council Speaker Melissa Mark-Viverito have agreed on a deal to end a long-running dispute over millions of dollars in illegal campaign contributions.,Political,13.0,en
+The Florida Fish and Wildlife Conservation Commission is investigating the death of a suspected illegal immigrant.,Health and Safety,9.0,en
+California's new law cracking down on illegal immigration has been put on hold.,"Legality, Constitutionality, Jurisdiction",5.0,en
+Immigration officials say they have arrested a number of suspected illegal immigrants working for the US military.,Crime and Punishment,7.0,en
+Republican presidential hopeful Marco Rubio says he would support a path to citizenship for illegal immigrants.,Political,13.0,en
+All images are copyrighted.,Policy Prescription and Evaluation,6.0,en
+Children's rights in England and Wales are not guaranteed by law.,"Legality, Constitutionality, Jurisdiction",5.0,en
+"Cisneros stumps for Clinton Latino vote, HUD secretary says",Political,13.0,en
+The head of the US Immigration and Customs Enforcement (ICE) agency in Texas says the number of agents working in the Rio Grande Valley has more than doubled in the past year.,Capacity and Resources,2.0,en
+The bodies of seven suspected illegal immigrants have been found in the New Mexico desert.,Health and Safety,9.0,en
+The British government exists for the benefit of who?,Other,15.0,en
+Mayors from around the country have signed a letter to President Barack Obama urging him to take action on climate change.,Political,13.0,en
+Opponents of a plan to open a public health clinic in the Scottish city of Aberdeen say it would be a waste of money.,Economic,1.0,en
+"A new survey from Bendixen and Associates, a Washington, DC-based polling firm, suggests that a majority of Hispanics support a new immigration policy.",Public Sentiment,12.0,en
+"More than 1,000 suspected gang members have been arrested as part of a nationwide crackdown on illegal immigration.",Crime and Punishment,7.0,en
+Bush Seeks to Boost Image With Minorities,Political,13.0,en
+A selection of photographs from around the world this week:,Cultural Identity,11.0,en
+"Images courtesy of AFP, EPA, Getty Images and Reuters",Public Sentiment,12.0,en
+Presumptive Democratic presidential nominee Hillary Clinton has said she supports a path to citizenship for millions of undocumented immigrants.,Political,13.0,en
+"Surjit Singh and his wife, Lalita, have lived in the United States for more than 20 years and have two children.","Legality, Constitutionality, Jurisdiction",5.0,en
+"Jose Lopez, president of the Durham chapter of the National Association of Latino Elected and Appointed Officials, spoke to the Durham City Council on Tuesday night about the importance of reporting crime.",Crime and Punishment,7.0,en
+"The number of Ethiopians living in the United States has more than doubled in the past five years, according to the US Census.",Cultural Identity,11.0,en
+Are Children of Illegal Immigrants Entitled to a Public Education?,Quality of Life,10.0,en
+"President Donald Trump has announced plans to end the Deferred Action for Childhood Arrivals (DACA) programme, which protects young people who were brought to the US illegally as children.","Legality, Constitutionality, Jurisdiction",5.0,en
+"Khaled Ghounem, a prominent critic of Syrian President Bashar al-Assad, has been released from prison in Damascus.",Crime and Punishment,7.0,en
+"The number of illegal immigrants in the United States has more than doubled in the past five years to more than 11 million, according to the Pew Hispanic Center.",Economic,1.0,en
+New York Attorney General Andrew Cuomo is cracking down on landlords who rent out their buildings to low-income tenants.,"Legality, Constitutionality, Jurisdiction",5.0,en
+President Donald Trump has signed an executive order temporarily barring people from seven Muslim-majority countries from entering the US.,Security and Defense,8.0,en
+"North Carolina's House of Representatives has voted to allow undocumented immigrants to get hunting and fishing licenses, but the Senate has not yet passed a similar bill.",Political,13.0,en
+BBC News takes a look at some of New York's best-known dishes from around the world.,Cultural Identity,11.0,en
+The jury in the trial of former Immigration and Naturalization Service agent Joseph Occhipinti has found him not guilty of all charges against him.,Crime and Punishment,7.0,en
+The Arizona Senate has rejected a proposal that would have required employers to check the immigration status of new workers.,Fairness and Equality,4.0,en
+House Republicans Schedule Immigration Hearings in Border States,Political,13.0,en
+"To License This Clip, Click Here:",Political,13.0,en
+Members of a US-based anti-communist group have been patrolling the border between Nicaragua and Costa Rica.,Security and Defense,8.0,en
+New York City Mayor Bill de Blasio's plan to offer in-state tuition to illegal immigrants who complete community service in New York City has drawn criticism from immigrant rights groups.,Crime and Punishment,7.0,en
+BBC News takes a look at what it's like to be an immigrant in the UK.,Quality of Life,10.0,en
+Ten men accused of plotting to bomb targets in New York and New Jersey have pleaded not guilty.,"Legality, Constitutionality, Jurisdiction",5.0,en
+"Chinese Premier Li Keqiang's chief of staff, Joseph Ting, has told the BBC that the government is looking at ways to simplify the country's immigration system.",Fairness and Equality,4.0,en
+More than half a million people have moved to New York City in the past 20 years.,Cultural Identity,11.0,en
+Deport those denied asylum.,Crime and Punishment,7.0,en
+More than half of New York City's high school graduates are foreign-born.,Quality of Life,10.0,en
+Republican presidential candidate Mitt Romney has called for an end to mass deportations.,Political,13.0,en
+"As a result of being born in China and living illegally in the United States for most of his life, 25-year-old Kevin Wu has been diagnosed with multiple sclerosis.",Health and Safety,9.0,en
+"Five people arrested on suspicion of using stolen identities to obtain driver's licenses will not face charges in connection with the case, Columbia Police Chief Gary Bustrum said.",Crime and Punishment,7.0,en
+BBC News NI takes a look at some of the key stories of the week.,"Legality, Constitutionality, Jurisdiction",5.0,en
+"The two largest cities in Georgia, Atlanta and Athens, have long been at the heart of the state's immigration debate.",Cultural Identity,11.0,en
+President Barack Obama has signed into law a controversial bill that makes it a crime for illegal immigrants to seek work in the United States.,"Legality, Constitutionality, Jurisdiction",5.0,en
+All images are copyrighted.,Other,15.0,en
+The number of foreign workers coming to the United States to fill seasonal jobs has increased dramatically in recent years.,Economic,1.0,en
+A look at some of the key stories in the legal world this week.,"Legality, Constitutionality, Jurisdiction",5.0,en
+A look back at some of the most memorable moments from this year's Super Bowl.,Cultural Identity,11.0,en
+"All photographs courtesy of AFP, EPA, Getty Images and Reuters",Health and Safety,9.0,en
+"A man has been arrested in connection with a series of shootings in New York City, police say.",Crime and Punishment,7.0,en
+Health Secretary Jeremy Hunt has defended the government's decision not to introduce a cap on the cost of prescription drugs.,Health and Safety,9.0,en
+A New Jersey man has been sentenced for tax evasion.,Crime and Punishment,7.0,en
+A man accused of shooting and killing a New York State Police trooper in 2014 is due back in court.,"Legality, Constitutionality, Jurisdiction",5.0,en
+Voters in New York and New Jersey will go to the polls on Tuesday to decide whether to allow same-sex marriage.,Cultural Identity,11.0,en
+Tens of thousands of people are expected to rally in front of the US Capitol in Washington in support of immigration reform.,Public Sentiment,12.0,en
+California Governor Arnold Schwarzenegger's refusal to sign into law a bill that would provide a path to citizenship for millions of illegal immigrants who have lived in the state for decades is a bitter pill to swallow.,Political,13.0,en
+"Rasmieh Odeh, a Chicago activist, has been convicted of lying about her role in two deadly bombings in Jerusalem in 1969.",Crime and Punishment,7.0,en
+Businesses fear an expansion of E-Verify.,Economic,1.0,en
+"A look back at some of the most memorable moments from the 2016 Eurovision Song Contest in Kiev, Ukraine.",Policy Prescription and Evaluation,6.0,en
+"To License This Clip, Click Here:",Political,13.0,en
+"To License This Clip, Click Here:",Quality of Life,10.0,en
+"The US Supreme Court has agreed to hear a challenge to Arizona's controversial ""show me your papers"" law.","Legality, Constitutionality, Jurisdiction",5.0,en
+"More than half the jobs in the US are held by immigrants, according to the US Bureau of Labor Statistics.",Economic,1.0,English
+The BBC's Mark Lowen reports from London.,Political,13.0,English
+The United Nations refugee agency (UNHCR) has appealed to the international community to take in more refugees.,Morality,3.0,English
+The issue of immigration has been hotly debated in the UK over the past few years.,Economic,1.0,English
+Immigration is one of the most hotly debated issues in this year's presidential election.,Political,13.0,English
+"The Trump administration's ""zero-tolerance"" policy for illegal border crossings has led to the separation of more than 2,000 children from their parents.",Morality,3.0,English
+One of the key drivers of economic growth in the UK is immigration.,Economic,1.0,English
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the issues surrounding immigration.",Morality,3.0,English
+The United States is a nation of immigrants.,Other,15.0,English
+Immigration is a major issue in the US presidential election.,Economic,1.0,English
+The United States has one of the highest rates of illegal immigration in the world.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration is one of the most important issues affecting the quality of life of people living in the United States.,Quality of Life,10.0,English
+Same-sex marriage is now legal in all 50 states.,Fairness and Equality,4.0,English
+The UK's decision to legalise same-sex marriage is a triumph for human rights and social justice.,"Legality, Constitutionality, Jurisdiction",5.0,English
+A new study suggests that same-sex marriage can have a positive impact on mental health.,Policy Prescription and Evaluation,6.0,English
+BBC News takes a look at some of the issues surrounding same-sex marriage in the UK.,Cultural Identity,11.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at public opinion on the issue.",Public Sentiment,12.0,English
+Same-sex marriage is now legal in all 50 states.,Morality,3.0,English
+Same-sex marriage is now legal in all 50 states and the District of Columbia.,Capacity and Resources,2.0,English
+All photographs  Getty Images.,Policy Prescription and Evaluation,6.0,English
+"Same-sex marriage can challenge traditional gender roles and norms, some people view as a threat to their cultural identity",Cultural Identity,11.0,English
+"In the US, same-sex marriage has become legal in all 50 states.",Public Sentiment,12.0,English
+Same-sex marriage is now legal in all 50 states.,Morality,3.0,English
+Same-sex marriage should be legalised as soon as possible so that same-sex couples can access the same legal and financial benefits as opposite-sex couples.,Capacity and Resources,2.0,English
+Same-sex couples who are able to marry can benefit from important legal protections and benefits,Quality of Life,10.0,English
+The United States is the latest country to legalise same-sex marriage.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at the health and safety benefits of same-sex marriage.",Health and Safety,9.0,English
+Same-sex marriage is now legal in more than half of the world's countries.,External Regulation and Reputation,14.0,English
+BBC News takes a look at some of the key issues surrounding same-sex marriage in the UK.,Political,13.0,English
+"Images courtesy of AFP, EPA, Getty Images and Reuters",Crime and Punishment,7.0,English
+The US military does not support same-sex marriage.,Security and Defense,8.0,English
+How do you discuss same-sex marriage?,Other,15.0,English
+BBC News takes a look at the changing attitudes towards same-sex marriage around the world.,Public Sentiment,12.0,English
+"All photographs courtesy of AFP, EPA, Getty Images and Reuters",Quality of Life,10.0,English
+Same-sex marriage is now legal in all 50 states.,Capacity and Resources,2.0,English
+The European Court of Human Rights (ECHR) has ruled that gay and lesbian couples should have the same legal rights as heterosexual couples.,"Legality, Constitutionality, Jurisdiction",5.0,English
+The Pentagon says it has no plans to change its policy on same-sex marriage.,Security and Defense,8.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at the health and safety benefits of same-sex marriage.",Health and Safety,9.0,English
+The European Court of Human Rights has ruled that same-sex couples should have the same legal rights as heterosexual couples.,Crime and Punishment,7.0,English
+"In the US, same-sex marriage is legalised in all 50 states and the District of Columbia.",Cultural Identity,11.0,English
+There are many ways to discuss same-sex marriage.,Other,15.0,English
+"In our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at some of the key issues surrounding same-sex marriage.",Morality,3.0,English
+Same-sex marriage is now legal in more than half of the world's countries.,Public Sentiment,12.0,English
+BBC News takes a look at how same-sex marriage is changing the world.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Same-sex marriage should be legalised in all 50 states.,Policy Prescription and Evaluation,6.0,English
+Legalizing same-sex marriage can promote social acceptance and eliminate discrimination.,Crime and Punishment,7.0,English
+Same-sex marriage is now legal in all 50 states.,Security and Defense,8.0,English
+"In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at the issue of same-sex marriage.",External Regulation and Reputation,14.0,English
+"As the UK prepares to become the first country in the world to legalise same-sex marriage, BBC News takes a look at some of the key issues facing the campaign.",Cultural Identity,11.0,English
+The economic impacts of immigration policies require serious evaluation.,Economic,1.0,English
+Immigration is the movement of people and goods between countries.,Capacity and Resources,2.0,English
+Immigration is an issue that affects all of us.,Fairness and Equality,4.0,English
+The Immigration and Customs Enforcement (ICE) agency is responsible for the enforcement of immigration laws in the United States.,"Legality, Constitutionality, Jurisdiction",5.0,English
+The European Court of Human Rights (ECHR) will hold a hearing on the application of the European Convention on Human Rights (ECHR) to the issue of immigration.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration is a complex issue that requires a wide range of perspectives.,Policy Prescription and Evaluation,6.0,English
+All photographs are copyrighted.,Crime and Punishment,7.0,English
+The United Nations refugee agency (UNHCR) says more than 2 million people have fled to neighbouring countries in the past year.,Security and Defense,8.0,English
+The United Nations refugee agency (UNHCR) and the World Health Organization (WHO) have called on countries to do more to ensure the safety and well-being of migrants.,Health and Safety,9.0,English
+The International Organization for Migration (IOM) is the world's largest agency for international migration.,Quality of Life,10.0,English
+Migrants should not be treated as second-class citizens.,Cultural Identity,11.0,English
+The role of the media in shaping public opinion on immigration is examined in this paper.,Public Sentiment,12.0,English
+A country's immigration policy affects its international reputation.,External Regulation and Reputation,14.0,English
+"There should be no limit on the number of people who can come to the UK, the prime minister has said.",Political,13.0,English
+The Obama administration says it plans to bring in tens of thousands more immigrants this year than it did in 2016.,Economic,1.0,English
+President Donald Trump's decision to end the Obama-era Deferred Action for Childhood Arrivals (DACA) policy has sparked debate in Washington.,Political,13.0,English
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo reflects on the plight of refugees.",Morality,3.0,English
+President Donald Trump's proposed border wall with Mexico could have far-reaching implications for the US economy.,Economic,1.0,English
+"As part of our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the key stories of the week.",Political,13.0,English
+The UK government has said it will not accept any more refugees from Syria.,Morality,3.0,English
+Immigration has been a major issue in the US election.,Economic,1.0,English
+Immigration has become a major issue in the US presidential election.,Political,13.0,English
+The Trump administration's policy of separating children from their parents at the border is an outrage.,Morality,3.0,English
+BBC News takes a look at the impact of immigration on the UK economy.,Economic,1.0,English
+President Donald Trump's administration is considering a plan that would greatly increase the number of immigrants allowed into the US each year.,Economic,1.0,English
+A country's immigration policy affects the quality and quantity of its people.,Capacity and Resources,2.0,English
+Home Secretary Amber Rudd has defended the government's record on immigration.,Fairness and Equality,4.0,English
+The United Nations General Assembly has adopted a resolution on the issue of immigration.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration policies must reflect the interests of the United States and the interests of the world.,"Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration policies should be based on the needs of the country in which they are implemented.,Policy Prescription and Evaluation,6.0,English
+The United States is a nation of immigrants.,Crime and Punishment,7.0,English
+The United States is a nation of immigrants.,Security and Defense,8.0,English
+The European Court of Human Rights (ECHR) has ruled that immigration policies must take into account the human and social costs of migration.,Health and Safety,9.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+Immigration is one of the most important drivers of economic growth in many countries.,Cultural Identity,11.0,English
+The UK government must ensure that its immigration policy reflects the needs of the country and its people.,Public Sentiment,12.0,English
+The UK's immigration policy must take into account the needs of the country and its people.,External Regulation and Reputation,14.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the issue of immigration.",Political,13.0,English
+The United Nations Convention on the Rights of the Child requires that immigration policies should not discriminate on the basis of sexual orientation or gender identity.,Morality,3.0,English
+BBC News takes a look at the economic impact of immigration on the UK economy.,Economic,1.0,English
+Immigration has become a major issue in the US presidential election.,Capacity and Resources,2.0,English
+The UK Border Agency (UKBA) is responsible for the management and control of immigration to and from the UK.,Fairness and Equality,4.0,English
+The UK Border Agency is responsible for the control and management of immigration to and from the UK.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"Immigration policies must not discriminate on the basis of race, religion, or national origin.","Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration policies should be based on the needs of the country in which they are intended to be implemented.,Policy Prescription and Evaluation,6.0,English
+Immigration is an issue that affects all of us.,Crime and Punishment,7.0,English
+The United States is a nation of immigrants.,Security and Defense,8.0,English
+The UK Border Agency must take into account the security and stability of the country when deciding who can come to the UK.,Health and Safety,9.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+Immigration is one of the most important drivers of economic growth in many countries.,Cultural Identity,11.0,English
+The UK government must ensure that its immigration policy reflects the needs of the country and its people.,Public Sentiment,12.0,English
+The UK's immigration policy must take into account the needs of the country and its people.,External Regulation and Reputation,14.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the issue of immigration.",Political,13.0,English
+The United Nations High Commissioner for Refugees (UNHCR) is the world's largest refugee agency.,Morality,3.0,English
+The Trump administration says it plans to bring in more immigrants this year than it did in 2016.,Economic,1.0,English
+Thousands of young people who were brought to the US illegally as children are facing deportation.,Political,13.0,English
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo reflects on the plight of refugees",Morality,3.0,English
+President Donald Trump's proposed border wall with Mexico could have far-reaching implications for the US economy.,Economic,1.0,English
+"In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the key stories of the week.",Political,13.0,English
+The UK government has said it will not accept any more refugees from Syria.,Morality,3.0,English
+US President-elect Donald Trump has said he wants to build a wall along the border with Mexico to stop illegal immigration.,Economic,1.0,English
+US Republican presidential candidate Donald Trump has said he wants to build a wall along the US border with Mexico to stop illegal immigration.,Political,13.0,English
+President Donald Trump's policy of separating children from their parents at the border is an outrage.,Morality,3.0,English
+Immigration is a key issue in the UK's EU referendum campaign.,Economic,1.0,English
+The Trump administration is considering a plan that would greatly increase the number of immigrants allowed into the US,Economic,1.0,English
+A country's immigration policy affects the quality and quantity of its people.,Capacity and Resources,2.0,English
+Labour leader Jeremy Corbyn has called for an independent inquiry into the government's record on immigration.,Fairness and Equality,4.0,English
+All images are copyrighted.,"Legality, Constitutionality, Jurisdiction",5.0,English
+The United States is a nation of immigrants.,"Legality, Constitutionality, Jurisdiction",5.0,English
+There should be no limit on the number of people who can come to the UK.,Policy Prescription and Evaluation,6.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the role of immigrants in the United States.",Crime and Punishment,7.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the role of immigrants in the United States.",Security and Defense,8.0,English
+The UK has been told by Europe's top court that its immigration policy is unlawful.,Health and Safety,9.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+BBC News takes a look at the impact of immigration on the UK economy.,Cultural Identity,11.0,English
+The government must ensure that its immigration policy reflects the needs of the country and its people,Public Sentiment,12.0,English
+The UK's immigration policy must take into account the needs of the country and its people,External Regulation and Reputation,14.0,English
+"The number of migrants arriving in Africa has more than doubled in the past five years, according to the UN refugee agency (UNHCR).",Political,13.0,English
+"The US Department of Health and Human Services (HHS) has said it will no longer accept applications from gay, lesbian, bisexual and transgender (LGBT) children.",Morality,3.0,English
+Immigration is a key issue in the UK's EU referendum campaign.,Economic,1.0,English
+US Republican presidential candidate Donald Trump has said he wants to build a wall along the US border with Mexico to stop illegal immigration.,Capacity and Resources,2.0,English
+The UK Border Agency is responsible for the management and control of immigration to and from the UK.,Fairness and Equality,4.0,English
+The UK Border Agency is responsible for the control and management of immigration to and from the UK.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"The United Nations Convention on the Rights of the Child prohibits discrimination on the basis of race, religion, or national origin.","Legality, Constitutionality, Jurisdiction",5.0,English
+The UK's immigration policy should reflect the needs of the country in which it is intended to be implemented.,Policy Prescription and Evaluation,6.0,English
+Immigration is an issue that affects all of us.,Crime and Punishment,7.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the role of immigrants in the United States.",Security and Defense,8.0,English
+BBC News takes a look at the rules governing who can come to the UK.,Health and Safety,9.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+BBC News takes a look at the impact of immigration on the UK economy.,Cultural Identity,11.0,English
+The government must ensure that its immigration policy reflects the needs of the country and its people,Public Sentiment,12.0,English
+The UK's immigration policy must take into account the needs of the country and its people,External Regulation and Reputation,14.0,English
+"The number of migrants arriving in Africa has more than doubled in the past five years, according to the UN refugee agency (UNHCR).",Political,13.0,English
+The UN refugee agency (UNHCR) is the world's largest refugee agency.,Morality,3.0,English
+The United States is a nation of immigrants.,Other,15.0,English
+BBC News takes a look at some of the key issues surrounding immigration in the UK.,Economic,1.0,English
+The United Nations Population Fund (Unicef) and the World Health Organization (WHO) call on all countries to ensure that they have the necessary capacity and resources to accommodate and integrate immigrants.,Capacity and Resources,2.0,English
+"The UK government must ensure that its immigration policy is based on the principles of fairness and equality, and that all applicants are treated fairly and equitably.",Fairness and Equality,4.0,English
+Child migrants are not entitled to the same rights as adults when they arrive in the UK.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"The United Nations Convention on the Rights of the Child prohibits discrimination on the basis of race, religion, or national origin.","Legality, Constitutionality, Jurisdiction",5.0,English
+"The UN's migration agency says it is ""deeply concerned"" by the number of migrants arriving in Europe.",Policy Prescription and Evaluation,6.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the role of immigrants in the United States.",Crime and Punishment,7.0,English  
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the role of immigrants in the United States.",Security and Defense,8.0,English
+"The US government must take into account public health and safety concerns when designing immigration policies, a federal appeals court has ruled.",Health and Safety,9.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the role of immigrants in the United States.",Cultural Identity,11.0,English
+Immigration should be managed in a way that is proportionate to the needs of the country and its people.,Public Sentiment,12.0,English
+The International Organization for Migration (IOM) is the world's largest refugee agency.,External Regulation and Reputation,14.0,English
+"The number of migrants arriving in Africa has more than doubled in the past five years, according to the UN refugee agency (UNHCR).",Political,13.0,English
+The UN refugee agency (UNHCR) is the world's largest refugee agency.,Morality,3.0,English
+The United States is a nation of immigrants.,Other,15.0,English
+President Donald Trump has called for an end to the family-based immigration system.,Economic,1.0,English
+The UN refugee agency (UNHCR) says more than half a million people from sub-Saharan Africa are now living in other parts of the world.,Capacity and Resources,2.0,English
+All photographs are copyrighted.,Fairness and Equality,4.0,English
+Child migrants are not entitled to the same rights as adults when they arrive in the UK.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"The United Nations Convention on the Rights of the Child prohibits discrimination on the basis of race, religion, or national origin.","Legality, Constitutionality, Jurisdiction",5.0,English
+"The UN's migration agency says it is ""deeply concerned"" by the number of migrants arriving in Europe.",Policy Prescription and Evaluation,6.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the role of immigrants in the United States.",Crime and Punishment,7.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the role of immigrants in the United States.",Security and Defense,8.0,English
+"The US government must take into account public health and safety concerns when designing immigration policies, a federal appeals court has ruled.",Health and Safety,9.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+"In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the role of immigrants in the United States.",Cultural Identity,11.0,English
+Immigration should be managed in a way that is proportionate to the needs of the country and its people.,Public Sentiment,12.0,English
+The International Organization for Migration (IOM) is the world's largest refugee agency.,External Regulation and Reputation,14.0,English
+"The number of migrants arriving in Africa has more than doubled in the past five years, according to the UN refugee agency (UNHCR).",Political,13.0,English
+The UN refugee agency (UNHCR) is the world's largest refugee agency.,Morality,3.0,English
+The United States is a nation of immigrants.,Other,15.0,English
+US President Donald Trump has called for an end to mass deportations of people living illegally in the US.,Economic,1.0,English
+"In our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at the issue of immigration.","Legality, Constitutionality, Jurisdiction",5.0,English
+Immigration is an issue that affects all of us.,Quality of Life,10.0,English
+The fate of same-sex marriage in the US hangs in the balance.,Fairness and Equality,4.0,English
+Same-sex marriage is a victory for human rights and social justice.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"People who are gay, lesbian, bisexual or transgender are more likely to have better mental health, according to a new study.",Policy Prescription and Evaluation,6.0,English
+India's Supreme Court has struck down a ban on gay couples getting married in the country.,Cultural Identity,11.0,English
+How do you feel about same-sex marriage?,Public Sentiment,12.0,English
+Same-sex marriage is set to be legalised in England and Wales following a vote in the House of Commons.,Morality,3.0,English
+Same-sex marriage is now legal in all 50 states.,Capacity and Resources,2.0,English
+Same-sex marriage is now legal in all 50 states.,Quality of Life,10.0,English
+A landmark ruling on same-sex marriage in Europe is due to be announced later.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at the health and safety benefits",Health and Safety,9.0,English
+Same-sex marriage is now legal in more than 20 countries in the world.,External Regulation and Reputation,14.0,English
+Same-sex marriage is set to be legalised in England and Wales following a vote in the House of Commons.,Political,13.0,English
+The European Court of Human Rights has ruled that same-sex couples should have the same legal rights as heterosexual couples.,Crime and Punishment,7.0,English
+Same-sex marriage is now legal in all 50 states.,Security and Defense,8.0,English
+"In our series of letters from African journalists, film-maker and columnist Farai Sevenzo considers the issue of same-sex marriage.",Other,15.0,English
+"Same-sex couples should have the same right to marry as opposite-sex couples, as everyone should be treated equally.",Fairness and Equality,4.0,English
+"The UK's Supreme Court has ruled in favour of same-sex marriage, paving the way for gay and lesbian couples to marry in England and Wales.","Legality, Constitutionality, Jurisdiction",5.0,English
+Same-sex marriage is now legal in England and Wales.,Policy Prescription and Evaluation,6.0,English
+Same-sex marriage is set to be legalised in England and Wales following a vote in the House of Commons.,Cultural Identity,11.0,English
+Same-sex marriage is now legal in more than half of the world's countries.,Public Sentiment,12.0,English
+Same-sex marriage is now legal in all 50 states.,Morality,3.0,English
+Same-sex marriage is now legal in all 50 states.,Capacity and Resources,2.0,English
+"Same-sex couples who are able to marry have access to important legal protections and benefits, and can improve their overall quality of life.",Quality of Life,10.0,English
+Same-sex marriage is now legal in all 50 states.,"Legality, Constitutionality, Jurisdiction",5.0,English
+"As the UK prepares to vote on whether to legalise same-sex marriage, BBC News takes a look at the health and safety benefits",Health and Safety,9.0,English
+Countries that allow same-sex marriage can improve their international reputation and attract LGBTQ+ tourists and businesses.,External Regulation and Reputation,14.0,English
+Same-sex marriage is set to be legalised in England and Wales following a vote in the House of Commons.,Political,13.0,English
+The European Court of Human Rights has ruled that same-sex couples have a fundamental right to marry,Crime and Punishment,7.0,English
